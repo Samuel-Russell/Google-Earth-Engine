@@ -3,6 +3,8 @@ A collection of useful scripts for Google Earth Engine developers. Some examples
 
 **Description of the files:**
 
+Introduction_to_Javascript_for_GEE.js  - Javascript examples for basic scripting in Google Earth Engine.
+
 Adding_data_to_map.js      - Javascript code for a simple data plot in Google Earth Engine.
 
 NDVI_Band_Maths.js         - Javascript code for a NDVI and difference calculation in Google Earth Engine.
