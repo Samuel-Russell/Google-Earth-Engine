@@ -22,3 +22,16 @@ print('E=', Number_On_Server);
 // An Earth Engine Object must use Earth Engine methods to process it (i.e JavaScript's Math.log() will not work')
 var log_E = server Number.log();
 print('log(E)=', log_E);
+
+// 4. Making a JavaScript list into an ee.List object on the GEE server
+// One way to make a sequence (more time consuming)
+var eeList = ee.List([10, 11, 12, 13, 14, 15, 16, 17, 18 ,19 ,20]);
+// Make a sequence again but with optimised code
+var sequence = ee.List.sequence(10, 20);
+print('Sequence:', sequence);
+
+// ee.List objects only exist on the server therefore use Earth Engine functions to interact with the object. 
+// For example, to obtain something out of the list, use the get() method of the ee.List object.
+// Using a method on an ee.List to extract a value.
+var value = sequence.get(4);
+print('Numerical value at index 4:', value);
