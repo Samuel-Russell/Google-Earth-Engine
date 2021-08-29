@@ -11,6 +11,8 @@ NDVI_Band_Maths.js         - JavaScript code for a NDVI and difference calculati
 
 Image_Properties.js        - JavaScript code for obtaining the properties of a desired image from an collection of interest.
 
+Objects_and_Methods.js     - JavaScript code for performing GEE methods on objects, such as, containers.
+
 
 **Data sources used in the code examples:**
 - Landsat 8 Collection 1 Tier 1 8-Day NDSI Composite, credit: Landsat-8 image courtesy of the U.S. Geological Survey
