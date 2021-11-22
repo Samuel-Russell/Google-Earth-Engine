@@ -15,6 +15,8 @@ Objects_and_Methods.js     - JavaScript code for performing GEE methods on objec
 
 Computations_Using_Images.js - Javascript code for applying a slope terrain method to an image.
 
+Exporting_Data.js - Javascript code providing an GEE example for exporting data.
+
 
 **Data sources used in the code examples:**
 - Landsat 8 Collection 1 Tier 1 8-Day NDSI Composite, credit: Landsat-8 image courtesy of the U.S. Geological Survey
