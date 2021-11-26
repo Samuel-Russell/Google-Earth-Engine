@@ -1,4 +1,5 @@
-# Google-Earth-Engine
+Google-Earth-Engine
+===============
 A collection of useful scripts for Google Earth Engine developers. Some examples have been modified from the [Google Earth Engine Developers Documentation.](https://developers.google.com/earth-engine/)
 
 **Description of the files:**
