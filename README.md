@@ -18,6 +18,8 @@ Computations_Using_Images.js - Javascript code for applying a slope terrain meth
 
 Exporting_Data.js - Javascript code providing an GEE example for exporting data.
 
+Detecting_Ice_Phenology.js - JavaScript code to detect if thermokarst lakes are frozen to the ground, based on SAR remote sensing methods.
+
 
 **Data sources used in the code examples:**
 - Landsat 8 Collection 1 Tier 1 8-Day NDSI Composite, credit: Landsat-8 image courtesy of the U.S. Geological Survey
