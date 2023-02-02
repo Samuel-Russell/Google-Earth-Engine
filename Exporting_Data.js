@@ -1,4 +1,4 @@
-// Exporting Data Samplee
+// Exporting Data Sample
 
 // 1. Define a function to find the mean value of pixels in each feature of a collection.
 
